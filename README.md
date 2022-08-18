@@ -1,5 +1,23 @@
-### Hi there 👋
+<h1> Hi there, I'm T. Y. U. <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><h1>
 
+Currently I'm a **Webdev-student**.
+  
+## Skill Set (still learning) 💪   
+
+These are some of the technologies I want to master:
+  
+**Programming Languages**
+  
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
+|--|--|--|
+  
+**Libraries and Frameworks**
+
+
+**Tools**
+
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|
+  
 ### Visitor count
 <img src="https://profile-counter.glitch.me/YasinUz/count.svg" />
 
