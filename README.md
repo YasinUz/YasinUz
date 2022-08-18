@@ -4,7 +4,7 @@ Currently I'm a **Webdev-student**.
   
 ## Skill Set (still learning) 💪   
 
-These are some of the technologies I want to master:
+These are some of the technologies I want to master (until next year):
   
 **Programming Languages**
   
