@@ -2,7 +2,7 @@
 
 Currently I'm a **Webdev-student** from Germany. Creative, curious and learning everyday.
 
-Gaming enthuiast | Cat-Lover | 
+ | Gaming enthuiast | Cat-Lover | 
   
 ## Skill Set (still learning) 💪   
 
@@ -18,9 +18,9 @@ These are some of the technologies I have mastered or am mastering:
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="40px">|<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="40px">
 |--|--|--|
 
-## Github Skills
+## Github Stats 📯
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinUz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinUz&show_icons=true&theme=radical&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's get in contact 📕
 
@@ -33,18 +33,3 @@ These are some of the technologies I have mastered or am mastering:
 <img src="https://profile-counter.glitch.me/YasinUz/count.svg" />
 
 
-
-<!--
-**YasinUz/YasinUz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
