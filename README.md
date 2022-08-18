@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
 <!--
 **YasinUz/YasinUz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
