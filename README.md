@@ -16,9 +16,8 @@ These are some of the technologies I want to master (until next year):
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|
 |--|
 
-## Let's get in contact
+## Let's get in contact 📕
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/)
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/)
