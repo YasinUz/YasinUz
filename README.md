@@ -15,7 +15,7 @@ These are some of the technologies I have mastered or am mastering:
   
 **Tools** 🧰
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png](https://icon-icons.com/icon/file-type-vscode/130084)" alt="visualstudio_code" width="40px">|<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="40px">
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img src="[[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png](https://icon-icons.com/icon/file-type-vscode/130084)](https://code.visualstudio.com/assets/images/code-stable.png)" alt="visualstudio_code" width="40px">|<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="40px">
 |--|--|--|
 
 ## Github Stats 📯
